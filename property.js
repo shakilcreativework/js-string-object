@@ -23,3 +23,5 @@ const income = person.salary;
 // console.log(person['married']);
 
 
+const keyValue = 'profession';
+console.log(keyValue);

@@ -88,4 +88,6 @@ if(drinks.trim() === liquid.trim()){
 }
 
 
-14. 
+14. How can access property value and how ways?
+
+o
