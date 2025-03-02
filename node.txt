@@ -90,4 +90,8 @@ if(drinks.trim() === liquid.trim()){
 
 14. How can access property value and how ways?
 
-o
+const pen = {name: 'matador', price: 5, color: 'black'};
+const keys = Object.keys(pen);
+const values = Object.values(pen);
+
+
